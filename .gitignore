@@ -1,0 +1,21 @@
+.DS_Store
+*~
+
+Books/
+Course/
+Grants/
+MATLAB/
+OSC_Logs/
+Papers/
+Pictures/
+Research/
+Review/
+Seminar/
+Students/
+Teaching/
+Thesis/
+Virtual Machines.localized/
+Vitae/
+WWW/
+kiwidown/
+zetc/
